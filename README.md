@@ -15,7 +15,7 @@
 ## 💻 About the challenge
 
 <p align="center">
-  <img src=".github/rocketshoes.png" alt="Rocketshoes">
+  <img src=".github/rocketshoes.PNG" alt="Rocketshoes">
 </p>
 
 A BIG challenge. Here I practiced: useState, useEffect, useCallback, Context API, Styled Components, and Axios. The application is like an e-commerce and I had to create a hook for a shopping cart.
