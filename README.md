@@ -22,6 +22,16 @@ A BIG challenge. Here I practiced: useState, useEffect, useCallback, Context API
 
 </br>
 
+## 🖱 Technologies
+
+- ReactJS
+- TypeScript
+- Styled Components
+- JSON Server
+- Axios 
+
+</br>
+
 ## ✔ Running the application
 
 ```bash
